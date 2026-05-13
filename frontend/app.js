@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/users";
+const API = "https://crud-backend.onrender.com/users";
 
 let editingId = null;
 
